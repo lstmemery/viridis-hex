@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='viridis-hex',
     version='0.1',
-    packages=[''],
+    packages=['pytest', 'matplotlib'],
     url='https://github.com/lstmemery/viridis-hex',
     license='MIT',
     author='lstmemery',
